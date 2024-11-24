@@ -7,9 +7,10 @@ A demo Weather app using compose and Hilt based on modern Android tech-stacks an
 
 ## Screenshots
 <p align="center">
-<img src="/preview/current_weather.jpg" width="270"/>
-<img src="/preview/search.jpg" width="270"/>
-<img src="/preview/search_list.jpg" width="270"/>
+<img src="/preview/no_location_selected.jpg" width="200"/>
+<img src="/preview/current_weather.jpg" width="200"/>
+<img src="/preview/search.jpg" width="200"/>
+<img src="/preview/search_list.jpg" width="200"/>
 </p>
 
 ## Tech stack & Open-source libraries
