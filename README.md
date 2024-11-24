@@ -14,6 +14,7 @@ A demo Weather app using compose and Hilt based on modern Android tech-stacks an
 </p>
 
 ## Tech stack & Open-source libraries
+- Please be aware that Jdk 17 is used
 - Minimum SDK level 24
 - 100% [Kotlin](https://kotlinlang.org/) based + [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous.
 - Hilt for dependency injection.
