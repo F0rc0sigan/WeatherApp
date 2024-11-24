@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="search_location_placeholder">Search Location</string>
+    <string name="weather_api_key">89568939867f4fb9957132934242211</string>
+</resources>
